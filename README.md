@@ -5,5 +5,5 @@ This is one year project for Design Principle @McGill University ECSE
 
 ## OpenCV Method:
 Step:
-  - face detetcion 
+  - Face detetcion (Haar Detection & LBP Detector)
   - Blob recognition
