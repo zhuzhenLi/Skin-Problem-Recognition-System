@@ -1,0 +1,26 @@
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX11 succeeded with the following output:
+Change Dir: /Users/age/Desktop/DP/skin/dlib-19.18/build/temp.macosx-10.9-x86_64-3.7/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f960b/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_f960b.dir/build.make CMakeFiles/cmTC_f960b.dir/build
+Building CXX object CMakeFiles/cmTC_f960b.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -DCOMPILER_SUPPORTS_CXX11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=c++11 -o CMakeFiles/cmTC_f960b.dir/src.cxx.o -c /Users/age/Desktop/DP/skin/dlib-19.18/build/temp.macosx-10.9-x86_64-3.7/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_f960b
+/usr/local/Cellar/cmake/3.15.4/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f960b.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/c++   -DCOMPILER_SUPPORTS_CXX11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_f960b.dir/src.cxx.o  -o cmTC_f960b 
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX0X succeeded with the following output:
+Change Dir: /Users/age/Desktop/DP/skin/dlib-19.18/build/temp.macosx-10.9-x86_64-3.7/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5400f/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_5400f.dir/build.make CMakeFiles/cmTC_5400f.dir/build
+Building CXX object CMakeFiles/cmTC_5400f.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -DCOMPILER_SUPPORTS_CXX0X -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=c++0x -o CMakeFiles/cmTC_5400f.dir/src.cxx.o -c /Users/age/Desktop/DP/skin/dlib-19.18/build/temp.macosx-10.9-x86_64-3.7/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_5400f
+/usr/local/Cellar/cmake/3.15.4/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5400f.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/c++   -DCOMPILER_SUPPORTS_CXX0X -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_5400f.dir/src.cxx.o  -o cmTC_5400f 
+
+
+Source file was:
+int main() { return 0; }

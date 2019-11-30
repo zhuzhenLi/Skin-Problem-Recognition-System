@@ -1,0 +1,26 @@
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX11 succeeded with the following output:
+Change Dir: /Users/age/Desktop/DP/dlib-19.18/build/temp.macosx-10.7-x86_64-3.6/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_fc1cd/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_fc1cd.dir/build.make CMakeFiles/cmTC_fc1cd.dir/build
+Building CXX object CMakeFiles/cmTC_fc1cd.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -DCOMPILER_SUPPORTS_CXX11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=c++11 -o CMakeFiles/cmTC_fc1cd.dir/src.cxx.o -c /Users/age/Desktop/DP/dlib-19.18/build/temp.macosx-10.7-x86_64-3.6/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_fc1cd
+/usr/local/Cellar/cmake/3.15.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fc1cd.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/c++   -DCOMPILER_SUPPORTS_CXX11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_fc1cd.dir/src.cxx.o  -o cmTC_fc1cd 
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX0X succeeded with the following output:
+Change Dir: /Users/age/Desktop/DP/dlib-19.18/build/temp.macosx-10.7-x86_64-3.6/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1d6c8/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_1d6c8.dir/build.make CMakeFiles/cmTC_1d6c8.dir/build
+Building CXX object CMakeFiles/cmTC_1d6c8.dir/src.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/c++    -DCOMPILER_SUPPORTS_CXX0X -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=c++0x -o CMakeFiles/cmTC_1d6c8.dir/src.cxx.o -c /Users/age/Desktop/DP/dlib-19.18/build/temp.macosx-10.7-x86_64-3.6/dlib_build/cpp11_test_build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_1d6c8
+/usr/local/Cellar/cmake/3.15.3/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1d6c8.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/c++   -DCOMPILER_SUPPORTS_CXX0X -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_1d6c8.dir/src.cxx.o  -o cmTC_1d6c8 
+
+
+Source file was:
+int main() { return 0; }

@@ -1,0 +1,8 @@
+/Users/age/Desktop/DP/dlib-19.18/build/temp.macosx-10.7-x86_64-3.6/CMakeFiles/rebuild_cache.dir
+/Users/age/Desktop/DP/dlib-19.18/build/temp.macosx-10.7-x86_64-3.6/CMakeFiles/edit_cache.dir
+/Users/age/Desktop/DP/dlib-19.18/build/temp.macosx-10.7-x86_64-3.6/CMakeFiles/dlib_python.dir
+/Users/age/Desktop/DP/dlib-19.18/build/temp.macosx-10.7-x86_64-3.6/pybind11_build/CMakeFiles/rebuild_cache.dir
+/Users/age/Desktop/DP/dlib-19.18/build/temp.macosx-10.7-x86_64-3.6/pybind11_build/CMakeFiles/edit_cache.dir
+/Users/age/Desktop/DP/dlib-19.18/build/temp.macosx-10.7-x86_64-3.6/dlib_build/CMakeFiles/rebuild_cache.dir
+/Users/age/Desktop/DP/dlib-19.18/build/temp.macosx-10.7-x86_64-3.6/dlib_build/CMakeFiles/edit_cache.dir
+/Users/age/Desktop/DP/dlib-19.18/build/temp.macosx-10.7-x86_64-3.6/dlib_build/CMakeFiles/dlib.dir
